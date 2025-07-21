@@ -47,13 +47,7 @@ The site combines bold visuals, a clear layout, and smart content architecture t
 ## 🖼️ Website Preview
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
-
-### Services Page
-![Services](./screenshots/services.png)
-
-### Contact / CTA Section
-![Contact](./screenshots/contact.png)
+![Homepage](./home.png)
 
 ---
 
